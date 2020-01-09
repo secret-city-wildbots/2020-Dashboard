@@ -19,23 +19,27 @@
 			<Item Name="Panel Resized.vi" Type="VI" URL="../Panel Resized.vi"/>
 			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Adjust Dashboard Window.vi"/>
 		</Item>
+		<Item Name="Custom Support" Type="Folder">
+			<Item Name="RisingEdgeTrigger.vi" Type="VI" URL="../RisingEdgeTrigger.vi"/>
+			<Item Name="BlinkLight.vi" Type="VI" URL="../BlinkLight.vi"/>
+			<Item Name="Toggle.vi" Type="VI" URL="../Toggle.vi"/>
+			<Item Name="AdjustFrontPanelPosition.vi" Type="VI" URL="../AdjustFrontPanelPosition.vi"/>
+			<Item Name="TimeBelowThreshold.vi" Type="VI" URL="../TimeBelowThreshold.vi"/>
+		</Item>
+		<Item Name="To Investigate" Type="Folder">
+			<Item Name="Open Playback Panel.vi" Type="VI" URL="../Open Playback Panel.vi"/>
+			<Item Name="ErrorMessageBuilder.vi" Type="VI" URL="../ErrorMessageBuilder.vi"/>
+			<Item Name="FPS Calculator.vi" Type="VI" URL="../FPS Calculator.vi"/>
+			<Item Name="Get All Users Directory.vi" Type="VI" URL="../Get All Users Directory.vi"/>
+			<Item Name="Handle Camera Configuration.vi" Type="VI" URL="../Handle Camera Configuration.vi"/>
+			<Item Name="Initialize Camera and CheckList.vi" Type="VI" URL="../Initialize Camera and CheckList.vi"/>
+			<Item Name="Dashboard.ini" Type="Document" URL="../Dashboard.ini"/>
+			<Item Name="Interpolate RGB Color.vi" Type="VI" URL="../Interpolate RGB Color.vi"/>
+			<Item Name="Playback Controls.vi" Type="VI" URL="../Playback Controls.vi"/>
+			<Item Name="Prepare Joystick Data for Displays.vi" Type="VI" URL="../Prepare Joystick Data for Displays.vi"/>
+		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
-		<Item Name="AdjustFrontPanelPosition.vi" Type="VI" URL="../AdjustFrontPanelPosition.vi"/>
-		<Item Name="BlinkLight.vi" Type="VI" URL="../BlinkLight.vi"/>
-		<Item Name="Dashboard.ini" Type="Document" URL="../Dashboard.ini"/>
-		<Item Name="ErrorMessageBuilder.vi" Type="VI" URL="../ErrorMessageBuilder.vi"/>
-		<Item Name="FPS Calculator.vi" Type="VI" URL="../FPS Calculator.vi"/>
-		<Item Name="Get All Users Directory.vi" Type="VI" URL="../Get All Users Directory.vi"/>
-		<Item Name="Handle Camera Configuration.vi" Type="VI" URL="../Handle Camera Configuration.vi"/>
-		<Item Name="Initialize Camera and CheckList.vi" Type="VI" URL="../Initialize Camera and CheckList.vi"/>
-		<Item Name="Interpolate RGB Color.vi" Type="VI" URL="../Interpolate RGB Color.vi"/>
-		<Item Name="Open Playback Panel.vi" Type="VI" URL="../Open Playback Panel.vi"/>
-		<Item Name="Playback Controls.vi" Type="VI" URL="../Playback Controls.vi"/>
-		<Item Name="Prepare Joystick Data for Displays.vi" Type="VI" URL="../Prepare Joystick Data for Displays.vi"/>
-		<Item Name="RisingEdgeTrigger.vi" Type="VI" URL="../RisingEdgeTrigger.vi"/>
 		<Item Name="TextToSpeech.vi" Type="VI" URL="../TextToSpeech.vi"/>
-		<Item Name="TimeBelowThreshold.vi" Type="VI" URL="../TimeBelowThreshold.vi"/>
-		<Item Name="Toggle.vi" Type="VI" URL="../Toggle.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">0</Property>
@@ -296,7 +300,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">6</Property>
+				<Property Name="Bld_version.build" Type="Int">7</Property>
 				<Property Name="Bld_version.major" Type="Int">17</Property>
 				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
