@@ -1,0 +1,25 @@
+Name: Aardvark
+Starting Location: Center of robot on initation line
+Push Start Location (x,y,h): (507.2, measured from your alliance's wall, 0 or 180)
+Number of balls to start: Any 
+What it does: Spins up shooter and doesn't move
+Revision: 2/22/20
+Confidence: Very confident
+
+
+Name: MVAM
+Starting Location: In front of power port with center of robot on initation line
+Push Start Location (x,y,h): (507.2, Measured from your alliance's wall, 0)
+Number of balls to start: 3
+What it does: Shoots and drives off initiation line
+Revision: 2/22/20
+Confidence: Confident
+
+
+Name: Move off initation line
+Starting Location: In front of power port with center of robot on initation line
+Push Start Location (x,y,h): (507.2, Measured from your alliance's wall, 0)
+Number of balls to start: Any
+What it does: Drives off initiation line
+Revision: 2/22/20
+Confidence: Confident

@@ -1,11 +1,12 @@
-1. Plug in power strip
-2. Plug in network cable to USB-Ethernet adapter
-3. Tablet function
-4. Joystick function and position
-5. Limelight
-6. USB camera
-7. Check IMU
-8. Battery voltage
-9. Air pressure
-10. Set driver profile
-11. Set match warning time
+1. Turn on the robot.
+2. Plug in the tablet power line to the USB hub.
+3. Connect to radio (via wifi to 4265_2020Beta)
+4. Open FRC Driver Station after connected
+5. Set the autonomous play to the correct file depending on the play you would like to run. Please reference the Auto Playbook.
+6. Adjust the Dashboard to show the field if you are in the Setup/Auto tab.
+7. Align robot according to the Auto Playbook.
+8. Go to the Setup/Auto Tab in the Dashboard and push the real position of the robot (see Auto Playbook for details)..
+9. Change the driver profile to the correct driver.
+10. Clear errors and start the recording the screen using OBS Studio (it is pinned to the task bar).
+11. Enable the robot to pressurize if not already.
+12. Play a match!
