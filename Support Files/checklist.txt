@@ -1,12 +1,18 @@
-1. Turn on the robot.
-2. Plug in the tablet power line to the USB hub.
-3. Connect to radio (via wifi to 4265_2020Beta)
-4. Open FRC Driver Station after connected
-5. Set the autonomous play to the correct file depending on the play you would like to run. Please reference the Auto Playbook.
-6. Adjust the Dashboard to show the field if you are in the Setup/Auto tab.
-7. Align robot according to the Auto Playbook.
-8. Go to the Setup/Auto Tab in the Dashboard and push the real position of the robot (see Auto Playbook for details)..
-9. Change the driver profile to the correct driver.
-10. Clear errors and start the recording the screen using OBS Studio (it is pinned to the task bar).
-11. Enable the robot to pressurize if not already.
-12. Play a match!
+1. Make sure wheel modules are straight before putting on the ground
+2. Pressurize and change battery.
+3.	Plug in the computer so it charges during the match
+4.	Plug in the tablet power line to the USB hub
+5.	Connect to robot once robot boots up via Ethernet cable (Use Ethernet to USB connector)
+6.	Open FRC Driver Station and make sure you have robot code, comms, and joysticks. If not, check Ethernet connection and restart driver station.
+7.	Make sure driver station and camera boots up (reboot driver station if not)
+8.	Check joysticks to make sure the driver joystick is joystick 0
+9.	Check tablet and make sure everything works
+10.  Check the speaker. Turn the physical knob and make sure the volume is all the way up.
+11.	In Setup/Auto tab, set the autonomous play to the correct file depending on the play you would like to run. You can reference the Auto Playbook if you need.
+12.	Make sure you are in the correct driver profile
+13.	Set the Auto Delay if needed. Talk with your alliance partners to see what their auto does to determine value.
+14. Set match end timer.
+15.	Set Robot Starting Position. Refer to the auto playbook and get measurements from on the field if you need. Once placed, you can click the y switch to use the LL for correct placement if needed.
+16.	Go to Tune Tab and make sure everything is green.
+17.	Go to TeleOp Tab to get the screen ready for the drivers
+18.	Open up the graphs and clear error messages on the Driver Station. Click Prints too so that we record the states in auto/climb modes. Start recording using OBS Studio
