@@ -1,25 +1,53 @@
 Name: Aardvark
-Starting Location: Center of robot on initation line
-Push Start Location (x,y,h): (507.2, measured from your alliance's wall, 0 or 180)
+Starting Location: Can start anywhere legal with middle of robot on initiation line
+Push Start Location (x,y,h): (509.2, measured distance from your alliance's trench wall, 0 or 180)
 Number of balls to start: Any 
 What it does: Spins up shooter and doesn't move
-Revision: 2/22/20
+Revision: 3/4/20
 Confidence: Very confident
 
-
-Name: MVAM
-Starting Location: In front of power port with center of robot on initation line
-Push Start Location (x,y,h): (507.2, Measured from your alliance's wall, 0)
-Number of balls to start: 3
-What it does: Shoots and drives off initiation line
-Revision: 2/22/20
-Confidence: Confident
-
-
-Name: Move off initation line
-Starting Location: In front of power port with center of robot on initation line
-Push Start Location (x,y,h): (507.2, Measured from your alliance's wall, 0)
+Name: MoveOffInitLine
+Starting Location: Can start anywhere legal with middle of robot on initiation line
+Push Start Location (x,y,h): (509.2, measured distance, 0)
 Number of balls to start: Any
-What it does: Drives off initiation line
-Revision: 2/22/20
+What it does: Spins up shooter and backs off init line
+Revision: 3/4/20
+Confidence: Very confident
+
+Name: MoveOffInitLineClearShoot3
+Starting Location: Can start anywhere where robot can see the target
+Push Start Location (x,y,h): (509.2, measured distance, 0)
+Number of balls to start: 3
+What it does: Spins up shooter, backs off the init line, moves forward to give robots more space, shoots 3 balls
+Revision: 3/4/20
+Confidence: Not recommended
+
+Name: MoveOffInitLineShoot3
+Starting Location: Can start anywhere where robot can see the target
+Push Start Location (x,y,h): (509.2, measured distance, 0)
+Number of balls to start: 3
+What it does: Spins up shooter, backs off init line, shoots 3 balls
+Revision: 3/4/20
 Confidence: Confident
+
+Name: Our2Shoot5
+Starting Location: Middle of robot on init line facing toward the drivers and aligned left/right with the balls
+Push Start Location (x,y,h): (509.2, 26.0, 180.0)
+Number of balls to start: 3
+What it does: Spins up shooter, drives forward off of the init line, grabs two balls in our trench, returns to front of trench and shoots 5 balls
+Revision: 3/4/20
+Confidence: Runs, but needs more tuning for shots to be accurate
+
+Name: Shoot3Our3Shoot3
+Starting Location: Middle of robot on init line, facing the oppposing alliance wall, 50 inches from our trench wall to center of bot
+Push Start Location (x,y,h): (509.2, 50.0, 0.0)
+What it does: Spins up shooter, backs off init line, shoots 3 balls, spins in place, gets 3 trench balls, goes to front of trench and shoots 3
+Revision: 3/4/20
+Confidence: Doesn't finish in under 15 seconds, but grabs 3 balls before time's up
+
+Name: Steal2Shoot5
+Starting Location: Facing towards drivers, middle of bot on init line, aligned left/right with the trench balls
+Push Start Location (x,y,h): (509.2, 297.0, 180)
+What it does: Spins up shooter, drives forward off the init line and steals two balls, drives to the front of the power port and shoots 5
+Revision: 3/4/20
+Confidence: Unsure
