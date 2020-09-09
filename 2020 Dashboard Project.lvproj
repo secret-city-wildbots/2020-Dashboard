@@ -19,7 +19,7 @@
 			<Item Name="Panel Resized.vi" Type="VI" URL="../Panel Resized.vi"/>
 			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Adjust Dashboard Window.vi"/>
 		</Item>
-		<Item Name="Custom Support" Type="Folder">
+		<Item Name="Utility" Type="Folder">
 			<Item Name="RisingEdgeTrigger.vi" Type="VI" URL="../RisingEdgeTrigger.vi"/>
 			<Item Name="BlinkLight.vi" Type="VI" URL="../BlinkLight.vi"/>
 			<Item Name="Toggle.vi" Type="VI" URL="../Toggle.vi"/>
@@ -27,10 +27,10 @@
 			<Item Name="TimeBelowThreshold.vi" Type="VI" URL="../TimeBelowThreshold.vi"/>
 			<Item Name="TextToSpeech.vi" Type="VI" URL="../TextToSpeech.vi"/>
 			<Item Name="ButtonColorChooser.vi" Type="VI" URL="../ButtonColorChooser.vi"/>
+			<Item Name="ErrorMessageBuilder.vi" Type="VI" URL="../ErrorMessageBuilder.vi"/>
 		</Item>
 		<Item Name="To Investigate" Type="Folder">
 			<Item Name="Open Playback Panel.vi" Type="VI" URL="../Open Playback Panel.vi"/>
-			<Item Name="ErrorMessageBuilder.vi" Type="VI" URL="../ErrorMessageBuilder.vi"/>
 			<Item Name="FPS Calculator.vi" Type="VI" URL="../FPS Calculator.vi"/>
 			<Item Name="Get All Users Directory.vi" Type="VI" URL="../Get All Users Directory.vi"/>
 			<Item Name="Handle Camera Configuration.vi" Type="VI" URL="../Handle Camera Configuration.vi"/>
@@ -68,6 +68,7 @@
 				<Item Name="compatFileDialog.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatFileDialog.vi"/>
 				<Item Name="compatOpenFileOperation.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatOpenFileOperation.vi"/>
 				<Item Name="Compute Delta.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Compute Delta.vi"/>
+				<Item Name="Connection Info.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Connection Info.vi"/>
 				<Item Name="Connextion Info.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Connextion Info.vi"/>
 				<Item Name="Consume RPC Param Data.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Consume RPC Param Data.vi"/>
 				<Item Name="Convert NT Boolean to LV String.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Convert NT Boolean to LV String.vi"/>
