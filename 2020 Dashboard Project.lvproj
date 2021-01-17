@@ -22,7 +22,6 @@
 		<Item Name="Utility" Type="Folder">
 			<Item Name="BlinkLight.vi" Type="VI" URL="../BlinkLight.vi"/>
 			<Item Name="Toggle.vi" Type="VI" URL="../Toggle.vi"/>
-			<Item Name="AdjustFrontPanelPosition.vi" Type="VI" URL="../AdjustFrontPanelPosition.vi"/>
 			<Item Name="TextToSpeech.vi" Type="VI" URL="../TextToSpeech.vi"/>
 			<Item Name="ButtonColorChooser.vi" Type="VI" URL="../ButtonColorChooser.vi"/>
 			<Item Name="ErrorMessageBuilder.vi" Type="VI" URL="../ErrorMessageBuilder.vi"/>
@@ -38,6 +37,9 @@
 			<Item Name="Interpolate RGB Color.vi" Type="VI" URL="../Interpolate RGB Color.vi"/>
 			<Item Name="Playback Controls.vi" Type="VI" URL="../Playback Controls.vi"/>
 			<Item Name="Prepare Joystick Data for Displays.vi" Type="VI" URL="../Prepare Joystick Data for Displays.vi"/>
+		</Item>
+		<Item Name="Support Files" Type="Folder" URL="../Support Files">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -311,7 +313,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">141</Property>
+				<Property Name="Bld_version.build" Type="Int">144</Property>
 				<Property Name="Bld_version.major" Type="Int">17</Property>
 				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
