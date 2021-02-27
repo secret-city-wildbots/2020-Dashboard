@@ -1,18 +1,18 @@
-1. Make sure wheel modules are straight before putting on the ground
-2. Pressurize and change battery.
-3. Plug in the computer so it charges during the match
-4. Plug in the tablet power line to the USB hub
-5. Connect to robot once robot boots up via Ethernet cable (Use Ethernet to USB connector)
-6. Open FRC Driver Station and make sure you have robot code, comms, and joysticks. If not, check Ethernet connection and restart driver station.
-7. Make sure driver station and camera boots up (reboot driver station if not)
-8. Check joysticks to make sure the driver joystick is joystick 0
-9. Check tablet and make sure everything works
-10. Check the speaker. Turn the physical knob and make sure the volume is all the way up.
-11. In Setup/Auto tab, set the autonomous play to the correct file depending on the play you would like to run. You can reference the Auto Playbook if you need.
-12. Make sure you are in the correct driver profile
-13. Set the Auto Delay if needed. Talk with your alliance partners to see what their auto does to determine value.
-14. Set match end timer.
-15. Set Robot Starting Position. Refer to the auto playbook and get measurements from on the field if you need. Once placed, you can click the y switch to use the LL for correct placement if needed.
-16. Go to Tune Tab and make sure everything is green.
-17. Go to TeleOp Tab to get the screen ready for the drivers
-18. Open up the graphs and clear error messages on the Driver Station. Click Prints too so that we record the states in auto/climb modes. Start recording using OBS Studio
+1. Straighten wheel modules on cart
+2. Pressurize and change battery
+3. Set robot in final location BEFORE powering up
+4. Connect laptop to power and FMS
+5. Open the driver station
+6. Check tablet and and controller
+7. Confirm robot connection
+8. Confirm camera connection
+9. Check robot profile
+10. Check driver profile
+11. Configure auto play and push robot pose
+12. Configure auto delay and match timer
+13. Confirm no master caution alarms
+14. Confirm all switches are green
+15. Open graphs, clear errors, enable print statements
+16. Leave in the TeleOp tab for drivers
+17. Check speaker volume
+18. Start OBS screen recording
