@@ -16,3 +16,7 @@
 16. Leave in the TeleOp tab for drivers
 17. Check speaker volume
 18. Start OBS screen recording
+
+
+
+
