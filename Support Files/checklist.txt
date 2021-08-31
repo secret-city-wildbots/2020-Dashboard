@@ -1,21 +1,20 @@
-1. Straighten wheel modules on cart
-2. Pressurize and change battery
-3. Set robot in final location BEFORE powering up
+1. Pressurize and change battery
+2. Straighten wheel modules while robot is on cart
+3. Set robot on field BEFORE powering up
 4. Connect laptop to power and FMS
-5. Open the driver station
-6. Check tablet and and controller
-7. Confirm robot connection
-8. Confirm camera connection
-9. Check robot profile
-10. Check driver profile
-11. Configure auto play and push robot pose
-12. Configure auto delay and match timer
-13. Confirm no master caution alarms
-14. Confirm all switches are green
-15. Open graphs, clear errors, enable print statements
+5. Check tablet and both game controllers
+6. Confirm robot connection and battery voltage
+7. Confirm camera connections, restart dashboard if needed
+8. Set robot profile, driver profile, and default LimeLight pipeline
+9. Configure auto play and push robot pose based on playbook
+10. Configure auto delay and endgame alert
+11. Check "Karen" speaker volume
+12. Confirm there are no master alarms
+13. Confirm all override switchs are green or orange
+14. Open graphs, enable print statements, clear console errors
+15. Start OBS screen recording
 16. Leave in the TeleOp tab for drivers
-17. Check speaker volume
-18. Start OBS screen recording
+17. Set the robot to party mode
 
 
 
