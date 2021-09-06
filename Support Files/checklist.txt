@@ -8,13 +8,14 @@
 8. Set robot profile, driver profile, and default LimeLight pipeline
 9. Configure auto play and push robot pose based on playbook
 10. Configure auto delay and endgame alert
-11. Check "Karen" speaker volume
-12. Confirm there are no master alarms
-13. Confirm all override switchs are green or orange
-14. Open graphs, enable print statements, clear console errors
-15. Start OBS screen recording
-16. Leave in the TeleOp tab for drivers
-17. Set the robot to party mode
+11. Calibrate the swerve modules
+12. Check "Karen" speaker volume
+13. Confirm there are no master alarms
+14. Confirm all override switchs are green or orange
+15. Open graphs, enable print statements, clear console errors
+16. Start OBS screen recording
+17. Leave in the TeleOp tab for drivers
+18. Set the robot to party mode
 
 
 
